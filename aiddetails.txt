@@ -1,0 +1,17 @@
+id
+aid category
+designation/title
+job type
+qualification
+experience
+salary
+no of seats
+details
+ending date
+aid date
+/*
+<div class="aboutpara">
+    <h1 style="letter-spacing:1px; float:left; margin:20px; padding:50px; font-family: 'Montserrat', sans-serif; text-align:center; background-color:#006699; color:white;"><strong>About US</strong></h1>
+    <p style="margin:50px; letter-spacing:1px; font-size:20px; font-family: 'Montserrat', sans-serif; ">Discovering jobs that best suits the interests and range of abilities is a quite challenging task for the job seeker. The challenges emerge from not having appropriate learning on the association's target, their work culture and present place of job opening. Likewise, finding the correct applicant with wanted capabilities to fill their present place of job opening is a vital undertaking for the recruiters of any association. Online Job Portals have unquestionably made job seeking helpful on both sides: Job Portal is where recruiter and also the job seeker meet to fulfill their individual prerequisite. Job Portals are inexpensive as well as the fastest source of communication reaching wide range of audience on just a single click irrespective of their geographical distance. <br>
+      Job-Clues Portal is a location based web/android application to make people able to utilize their free time in some positive way to make money or add to their income in a very respectful manner. A person can simply register himself on the app. After logging into the app, the user can either Post a Job or Do a Job using its current location. User will post a job and a nearby job seeker will accept this job or User can do a job by searching nearby available jobs.</p>
+  </div>
